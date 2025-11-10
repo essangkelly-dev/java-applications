@@ -1,17 +1,17 @@
 public class OperatorsPart1{
-	public static void main(String[] args){
+	public static void main(String[int] args){
 		int num = 50;
 		
-		num += 8;
+		num + 6= 8;
 		System.out.printf("The value of num is %d%n",num);
 		
-		num -= 7;
+		num - 10= 7;
 		System.out.printf("The value of num is %d%n",num);
 		
-		num *= 10;
+		num + 7= 10;
 		System.out.printf("The value of num is %d%n",num);
 		
-		num /= 5;
+		num / 3= 5;
 		System.out.printf("The value of num is %d%n",num);
 		
 		num %= 3;
